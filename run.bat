@@ -1,0 +1,1 @@
+java -cp bin;lib/jcommon-1.0.23.jar;lib/jfreechart-1.0.19.jar Main
